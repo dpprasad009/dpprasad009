@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/1d3caa9877d0def53450d4875af35d92bcd8d1947ed7ad9143dea874c2a4d1e9/68747470733a2f2f63632d6465762e636364657670726f6a656374732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031362f31312f62616e6e65722d7765622d646576656c6f706d656e742e706e67)
+[![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm Nagamalla Durga Prasad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
